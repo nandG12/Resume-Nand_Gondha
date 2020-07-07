@@ -1,6 +1,9 @@
 ## Nand_Gondha
 This is the whole description for the all the project and presentation Links.
 
+## Resume
+1. [Nand_Gondha](https://github.com/nandG12/Resume-Nand_Gondha/blob/master/Nand%20Gondha_Resume.png)
+
 ## Projects
 1. [Zero Developer Console](https://github.com/nandG12/Zero-Developer-Console)
 1. [aE-Paymet System](https://github.com/nandG12/aE-Payment-Lyber)
