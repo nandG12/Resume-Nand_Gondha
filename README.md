@@ -9,6 +9,7 @@ This is the whole description for the all the project and presentation Links.
 1. [aE-Paymet System](https://github.com/nandG12/aE-Payment-Lyber)
 
 ## Hackerank Codes
+1. [HackerRank Dashboard](https://www.hackerrank.com/NandGondha)
 1. [HackerRank Codes](https://github.com/nandG12/HackerRank_Code)
 > 1. 30-Days of Code in Java ( 5 Star )
 > 1. Algorithms
