@@ -5,8 +5,8 @@ This is the whole description for the all the project and presentation Links.
 1. [Zero Developer Console](https://github.com/nandG12/Zero-Developer-Console)
 1. [aE-Paymet System](https://github.com/nandG12/aE-Payment-Lyber)
 
-## [Hackerank Codes](https://github.com/nandG12/HackerRank_Code)
-> Sub Folder Contaings Following codes.
+## Hackerank Codes
+1. [HackerRank Codes](https://github.com/nandG12/HackerRank_Code)
 > 1. 30-Days of Code in Java
 > 1. Algorithms
 > 1. Problem Solving
