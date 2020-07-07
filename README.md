@@ -2,7 +2,7 @@
 This is the whole description for the all the project and presentation Links.
 
 ## Resume
-1. [Nand_Gondha](https://www.canva.com/design/DAEBRHDgee4/sDYCZLJCSJU7t_AqFlP1uA/view?utm_content=DAEBRHDgee4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Nand_Gondha](https://www.canva.com/design/DAEBRHDgee4/sDYCZLJCSJU7t_AqFlP1uA/view?utm_content=DAEBRHDgee4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Projects
 1. [Zero Developer Console](https://github.com/nandG12/Zero-Developer-Console)
@@ -22,4 +22,4 @@ This is the whole description for the all the project and presentation Links.
 1. [Benefits of Healthy Lifestyle in Quarantine](https://prezi.com/view/1HHg2aEQ5aBqmlxTKFVT/)
 
 ## Documentations
-1. All [RND](https://github.com/nandG12/Resume-Nand_Gondha/tree/master/Documentations) pdfs.
+Main [Reseach and Reports](https://github.com/nandG12/Resume-Nand_Gondha/tree/master/Documentations)
