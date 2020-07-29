@@ -1,5 +1,5 @@
 ## Nand_Gondha
-This is the whole description for the all the project and presentation Links.
+This is the whole description for the all the project and presentation Links. You can travell to all the project and presentations from here.
 
 ## Resume
 [Nand_Gondha](https://www.canva.com/design/DAEBRHDgee4/sDYCZLJCSJU7t_AqFlP1uA/view?utm_content=DAEBRHDgee4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
