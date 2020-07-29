@@ -3,6 +3,7 @@ This is the whole description for the all the project and presentation Links. Yo
 
 ## Resume
 [Nand_Gondha](https://github.com/nandG12/Resume-Nand_Gondha/blob/master/Nand%20Gondha_Resume.png)
+
 <!--
 For Website View
 >[Nand_Gondha](https://www.canva.com/design/DAEBRHDgee4/sDYCZLJCSJU7t_AqFlP1uA/view?utm_content=DAEBRHDgee4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
