@@ -7,6 +7,7 @@ This is the whole description for the all the project and presentation Links. Yo
 <!--
 For Website View
 >[Nand_Gondha](https://www.canva.com/design/DAEBRHDgee4/sDYCZLJCSJU7t_AqFlP1uA/view?utm_content=DAEBRHDgee4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+>[New Nand_Gondha](https://www.canva.com/design/DAEBRHDgee4/sDYCZLJCSJU7t_AqFlP1uA/view?utm_content=DAEBRHDgee4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 -->
 
 ## Projects
