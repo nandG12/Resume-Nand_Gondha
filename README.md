@@ -2,7 +2,8 @@
 This is the whole description for the all the project and presentation Links. You can travell to all the project and presentations from here.
 
 ## Resume
-[Nand_Gondha](https://github.com/nandG12/Resume-Nand_Gondha/blob/master/Nand%20Gondha_Resume.png)
+<!--[Nand_Gondha](https://github.com/nandG12/Resume-Nand_Gondha/blob/master/Nand%20Gondha_Resume.png)-->
+[Nand_Gondha](https://github.com/nandG12/Resume-Nand_Gondha/blob/master/Nand%20Gondha_Resume.pdf)
 
 <!--
 For Website View
